@@ -41,18 +41,16 @@ export default function About() {
                         <h2 className="text-3xl font-bold mb-3">Tentang Saya</h2>
                         <p className="text-muted-foreground leading-relaxed">
                             Saya <span className="text-primary font-medium">Wahyu</span>,
-                            lulusan Teknik Informatika dengan fokus pada pengembangan
-                            web modern menggunakan <span className="text-foreground font-medium">Next.js</span>,{" "}
+                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi, aut. Doloribus quas ducimus neque.<span className="text-foreground font-medium">Next.js</span>,{" "}
                             <span className="text-foreground font-medium">Tailwind CSS</span>, dan{" "}
                             <span className="text-foreground font-medium">Framer Motion</span>.
-                            Saya senang membangun antarmuka yang elegan, responsif, dan efisien.
+                           Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero, dolor!
                         </p>
                     </div>
 
                     <div>
                         <p className="text-muted-foreground leading-relaxed">
-                            Saya juga tertarik pada bidang UI/UX, performa web, dan animasi interaktif.
-                            Tujuan saya adalah menciptakan pengalaman pengguna yang intuitif dan memikat.
+                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo, temporibus? Corrupti assumenda temporibus laboriosam voluptatibus sunt! Vel voluptatem nostrum quia nemo possimus, praesentium sint, ab placeat, voluptate optio adipisci expedita!
                         </p>
                     </div>
 
