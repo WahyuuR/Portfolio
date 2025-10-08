@@ -32,7 +32,7 @@ export default function Hero() {
                     transition={{ delay: 0.4, duration: 0.6 }}
                     className="text-lg text-muted-foreground leading-relaxed mb-8"
                 >
-                    Seorang pengembang web front-end yang berfokus pada UI modern, animasi halus, dan pengalaman pengguna yang menyenangkan.
+                    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dicta dolore hic cumque pariatur incidunt iure dolorum ex velit veritatis eum doloribus alias aut soluta molestiae minus, cum dolor ab atque.
                 </motion.p>
 
                 <motion.div
