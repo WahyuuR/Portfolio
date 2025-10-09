@@ -4,6 +4,15 @@ const nextConfig = {
     basePath: '/portfolio',
     assetPrefix: '/portfolio',
     trailingSlash: true,
+    async redirects() {
+        return [
+            {
+                source: '/',
+                destination: '/portfolio',
+                permanent: true,
+            },
+        ];
+    },
 };
 
 export default nextConfig;
