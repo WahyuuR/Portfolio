@@ -3,6 +3,7 @@
 import { motion } from "framer-motion";
 import Image from "next/image";
 import { Button } from "@/components/ui/button";
+import DownloadCVButton from "./DownloadCVButton";
 
 export default function About() {
     return (
@@ -46,6 +47,7 @@ export default function About() {
                             <span className="text-foreground font-medium">Framer Motion</span>.
                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero, dolor!
                         </p>
+                        <DownloadCVButton />
                     </div>
 
                     <div>
