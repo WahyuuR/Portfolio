@@ -101,7 +101,7 @@ export default function Contact() {
                     className="mt-14 flex justify-center gap-6"
                 >
                     <Link
-                        href="mailto:wahyu@example.com"
+                        href="mailto:wajyurrahmanf.com"
                         className="text-muted-foreground hover:text-primary transition"
                         aria-label="Email"
                     >

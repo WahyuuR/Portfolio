@@ -7,8 +7,8 @@ import { toast } from "sonner";
 export default function DownloadCVButton() {
     const handleDownload = () => {
         const link = document.createElement("a");
-        link.href = "/cv/cvWahyu.pdf"; // path ke file CV di public/
-        link.download = "Wahyu-CV.pdf"; // nama file saat diunduh
+        link.href = "/cv/cvWahyu.pdf";
+        link.download = "Wahyu-CV.pdf";
         link.click();
         toast.success("CV berhasil diunduh!");
     };
